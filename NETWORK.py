@@ -1,5 +1,4 @@
 # NETWORK USAGE TRACKER
-
 # imported necessary library
 from tkinter import *
 import tkinter as tk
@@ -11,7 +10,7 @@ import socket
 
 # Main Window & Configuration
 window1 = tk.Tk() # created a tkinter gui window frame
-window1.title("Network Usage Tracker") # title given is "DICTIONARY"
+window1.title("Network Usage Tracker")
 window1.geometry('1000x700')
 
 # top label
